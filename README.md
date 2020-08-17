@@ -18,3 +18,35 @@ Vue 연습을 위한 저장소. 다양한 형태의 웹 어플리케이션 기�
 - 사용자 인증을 포함하는 백엔드와의 연동
 - CRUD (Todo, Board 등)
 
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Run your unit tests
+```
+yarn test:unit
+```
+
+### Run your end-to-end tests
+```
+yarn test:e2e
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
